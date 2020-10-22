@@ -19,10 +19,6 @@ My shiny app can be found here: https://wmatt.shinyapps.io/Iris_K_Means/
 The code for the shiny app can be found here: https://github.com/wmatthe/ShinyApp
 
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
 Overview
 ========================================================
 
